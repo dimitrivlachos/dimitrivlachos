@@ -1,51 +1,30 @@
-<h1 align="center">👋 Hi, I am Dimitri</h1>
 <div align="center">
-  <a href="https://linkedin.com/in/dimitri-vlachos" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dimitri Vlachos LinkedIn" height="30" width="40" />
-  </a>
-</div>
-<h3 align="center">Software Scientist | Passionate Problem Solver | Lifelong Learner</h3>
 
----
+<img src="assets/header.svg" alt="Simulated x-ray diffraction detector image with resolution rings and spotfinder boxes - Dimitri Vlachos, Software Scientist at Diamond Light Source" width="860">
 
-### 🌟 About Me
-I am a **Software Scientist** at the UK's national synchrotron particle accelerator, [Diamond Light Source](https://www.diamond.ac.uk/Home.html). My professional focus is on developing **GPU-based analysis algorithms** with **CUDA** for x-ray diffraction data. I work on **real-time fast feedback services** to support beamline experiments and contribute to accelerated data processing tools, including the [DIALS](https://dials.github.io/) project.
-
-With a **First-Class Honours degree in Computer Science** from the University of London, I am passionate about pushing the boundaries of science and technology. I enjoy solving complex problems and continuously seek opportunities to **learn, innovate**, and **create impactful solutions**.
-
----
-
-### 🛠️ What I Do
-
-#### Professionally:
-- **High-Performance Computing**: Accelerating x-ray diffraction data processing using **GPUs** and **CUDA**.
-- **Scientific Software Development**: Developing the [Fast Feedback Service](https://github.com/DiamondLightSource/fast-feedback-service) and [DIALS](https://dials.github.io/).
-- **Fast Feedback Decision-Making**: Building algorithms to enable fast, actionable feedback during experiments.
-
-#### As a Hobby:
-- **Embedded Systems**: Designing **PCBs**, programming **microcontrollers** and **FPGAs** for home automation and wearables.
-- **AI/ML Development**: Building deep learning models for various applications.
-- **Game & VR Development**: Experimenting with immersive technologies.
-- **Digital Art & Design**: Combining creativity with technology.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimitrivlachos&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
 </div>
 
+Software Scientist at [Diamond Light Source](https://www.diamond.ac.uk/),
+the UK's national synchrotron. I develop GPU-accelerated analysis
+algorithms in CUDA for x-ray diffraction data.
 
-<!--
-**dimitrivlachos/dimitrivlachos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The work sits where scientific correctness meets real performance
+pressure: analysis that has to match trusted results exactly and still
+run fast enough to be useful while an experiment is happening. That is
+mostly C++ and CUDA on the GPU, with Python around it. Outside work I
+design PCBs, write embedded firmware for microcontrollers and FPGAs,
+and run a small homelab.
 
-Here are some ideas to get you started:
+### What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+|---|---|
+| [**fast-feedback-service**](https://github.com/DiamondLightSource/fast-feedback-service) | GPU spotfinding and integration for live feedback during beamline experiments ([my merged PRs](https://github.com/DiamondLightSource/fast-feedback-service/pulls?q=is%3Apr+is%3Amerged+author%3Adimitrivlachos)) |
+| [**dx2**](https://github.com/dials/dx2) | Standalone C++ models for diffraction experiment data ([my merged PRs](https://github.com/dials/dx2/pulls?q=is%3Apr+is%3Amerged+author%3Adimitrivlachos)) |
+| [**DIALS**](https://dials.github.io/) | The diffraction analysis toolkit this all connects to ([my contributions](https://github.com/dials/dials/pulls?q=is%3Apr+author%3Adimitrivlachos)) |
+| [**cudabitshuffle**](https://github.com/dimitrivlachos/cudabitshuffle) | CUDA implementation of the bitshuffle algorithm used in detector data compression |
+| [**hdf5-trimmer**](https://github.com/dimitrivlachos/hdf5-trimmer) | Small tool for trimming HDF5 datasets down to a testable size |
+
+### Find me
+
+[![LinkedIn](assets/badge-linkedin.svg)](https://linkedin.com/in/dimitri-vlachos)

@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+
+# Rendered previews
+*.preview.png
+
+# Local drafts and notes - never committed
+CLEANUP-PLAN.md
+gen_header.py
