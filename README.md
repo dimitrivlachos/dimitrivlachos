@@ -8,11 +8,11 @@ Software Scientist at [Diamond Light Source](https://www.diamond.ac.uk/),
 the UK's national synchrotron. I develop GPU-accelerated analysis
 algorithms in CUDA for x-ray diffraction data.
 
-At heart I am a scientist and developer who never quite chose between
-writing software and picking up a soldering iron, so I happily do both.
-The hardware half fills my evenings and weekends: PCBs I design myself
-and then fuss over, embedded firmware for microcontrollers and FPGAs, a
-3D printer, and a little homelab I am rather too fond of.
+At heart I am a scientist and developer who can also design the
+hardware and write the firmware to bring it to life. On any given day
+that runs from CUDA kernels to PCBs I design myself and then fuss over,
+embedded firmware for microcontrollers and FPGAs, a 3D printer, and a
+little homelab I am rather too fond of.
 
 ### What I work on
 
