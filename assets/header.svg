@@ -408,13 +408,16 @@
   <text x="298" y="161" font-size="11" fill="#566070">4.2 Å</text>
   <text x="353" y="122" font-size="11" fill="#566070">2.4 Å</text>
   <text x="408" y="83" font-size="11" fill="#566070">1.7 Å</text>
-  <rect x="29" y="342" width="322" height="24" rx="4" fill="#10141b" opacity="0.82"/>
-  <text x="40" y="359" font-size="11.5" fill="#7d8590" xml:space="preserve">spotfinder: 129 reflections found · d_min 1.7 Å</text>
-  <text x="508" y="118" font-size="30" font-weight="650" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">Dimitri Vlachos</text>
-  <text x="508" y="148" font-size="15.5" fill="#9aa4b2" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">Software Scientist · Diamond Light Source</text>
-  <rect x="508" y="172" width="64" height="3" rx="1.5" fill="#ffb454"/>
-  <text x="508" y="224" font-size="14" xml:space="preserve"><tspan fill="#ffb454">work </tspan><tspan fill="#9aa4b2">  GPU-accelerated diffraction analysis</tspan></text>
-  <text x="508" y="254" font-size="14" xml:space="preserve"><tspan fill="#ffb454">stack</tspan><tspan fill="#9aa4b2">  C++ · CUDA · Python</tspan></text>
-  <text x="508" y="284" font-size="14" xml:space="preserve"><tspan fill="#ffb454">flow </tspan><tspan fill="#9aa4b2">  detector -&gt; GPU -&gt; beamline feedback</tspan></text>
-  <text x="508" y="340" font-size="12.5" fill="#566070" xml:space="preserve">every image processed before the next one lands</text>
+  <rect x="500" y="28" width="352" height="344" rx="6" fill="#10141b" stroke="#2a313c" stroke-width="1.5"/>
+  <text x="522" y="94" font-size="23" font-weight="650" fill="#e6edf3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">Software Scientist</text>
+  <text x="522" y="120" font-size="14.5" fill="#9aa4b2" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">Diamond Light Source</text>
+  <rect x="522" y="136" width="60" height="3" rx="1.5" fill="#ffb454"/>
+  <text x="522" y="180" font-size="11.5" letter-spacing="1.2" fill="#ffb454">FOCUS</text>
+  <text x="622" y="180" font-size="13.5" xml:space="preserve"><tspan fill="#9aa4b2">GPU diffraction analysis</tspan></text>
+  <text x="522" y="224" font-size="11.5" letter-spacing="1.2" fill="#ffb454">STACK</text>
+  <text x="622" y="224" font-size="13.5" xml:space="preserve"><tspan fill="#9aa4b2">C++ · CUDA · Python</tspan></text>
+  <text x="522" y="268" font-size="11.5" letter-spacing="1.2" fill="#ffb454">BUILDS</text>
+  <text x="622" y="268" font-size="13.5" xml:space="preserve"><tspan fill="#9aa4b2">PCBs · firmware · homelab</tspan></text>
+  <text x="522" y="312" font-size="11.5" letter-spacing="1.2" fill="#ffb454">BASED</text>
+  <text x="622" y="312" font-size="13.5" xml:space="preserve"><tspan fill="#9aa4b2">Oxfordshire, UK</tspan></text>
 </svg>
