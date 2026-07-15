@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 178" fill="none">
-  <!-- Fox face as diffraction spots: amber Bragg-style points on faint lattice lines, with faint resolution rings and background reflections behind. Matches the header card; a construction unlike a filled polygon fox. -->
+  <!-- Fox face as diffraction spots: amber Bragg-style points on faint lattice lines, with faint resolution rings and background reflections behind, matching the header card. -->
   <circle cx="100" cy="94" r="58" stroke="#ffb454" stroke-width="1" stroke-dasharray="3 6" opacity="0.1"/>
   <circle cx="100" cy="94" r="92" stroke="#ffb454" stroke-width="1" stroke-dasharray="3 6" opacity="0.1"/>
   <circle cx="24" cy="38" r="1.7" fill="#ffb454" opacity="0.22"/>

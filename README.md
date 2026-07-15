@@ -2,8 +2,6 @@
 
 <img src="assets/header.svg" alt="Simulated x-ray diffraction detector image with resolution rings and spotfinder boxes, beside an acquisition-stats readout panel" width="860">
 
-<img src="assets/mark-fox.svg" alt="" width="150">
-
 </div>
 
 Software Scientist at [Diamond Light Source](https://www.diamond.ac.uk/),
@@ -15,6 +13,12 @@ hardware and write the firmware to bring it to life. On any given day
 that runs from CUDA kernels to PCBs I design myself and then fuss over,
 embedded firmware for microcontrollers and FPGAs, a 3D printer, and a
 little homelab I am rather too fond of.
+
+<div align="center">
+
+<img src="assets/mark-fox.svg" alt="" width="430">
+
+</div>
 
 ### What I work on
 
