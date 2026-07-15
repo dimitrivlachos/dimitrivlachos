@@ -2,6 +2,8 @@
 
 <img src="assets/header.svg" alt="Simulated x-ray diffraction detector image with resolution rings and spotfinder boxes, beside an acquisition-stats readout panel" width="860">
 
+<img src="assets/mark-fox.svg" alt="" width="150">
+
 </div>
 
 Software Scientist at [Diamond Light Source](https://www.diamond.ac.uk/),
